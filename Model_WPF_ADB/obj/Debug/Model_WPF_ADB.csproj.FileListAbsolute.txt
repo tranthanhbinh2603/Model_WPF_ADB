@@ -1,0 +1,35 @@
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.exe.config
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.exe
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.pdb
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\KAutoHelper.dll
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\Emgu.CV.World.dll
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\bin\Debug\Emgu.CV.World.xml
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csprojResolveAssemblyReference.cache
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\MainWindow.g.cs
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\App.g.cs
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB_MarkupCompile.cache
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB_MarkupCompile.lref
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\MainWindow.baml
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.g.resources
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.Properties.Resources.resources
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csproj.GenerateResource.Cache
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.exe
+c:\users\binh\documents\visual studio 2015\Projects\Model_WPF_ADB\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.pdb
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csprojAssemblyReference.cache
+D:\Data\Project\Model_WPF_ADB\obj\Debug\MainWindow.g.cs
+D:\Data\Project\Model_WPF_ADB\obj\Debug\App.g.cs
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB_MarkupCompile.cache
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB_MarkupCompile.lref
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.exe
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.pdb
+D:\Data\Project\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.exe.config
+D:\Data\Project\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.exe
+D:\Data\Project\Model_WPF_ADB\bin\Debug\Model_WPF_ADB.pdb
+D:\Data\Project\Model_WPF_ADB\bin\Debug\Emgu.CV.World.dll
+D:\Data\Project\Model_WPF_ADB\bin\Debug\Emgu.CV.World.xml
+D:\Data\Project\Model_WPF_ADB\obj\Debug\MainWindow.baml
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.g.resources
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.Properties.Resources.resources
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csproj.GenerateResource.cache
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csproj.CoreCompileInputs.cache
+D:\Data\Project\Model_WPF_ADB\obj\Debug\Model_WPF_ADB.csproj.CopyComplete
